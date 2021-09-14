@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; 
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body{
+    font-family: cursive;
+    background: url("../foco.jpg");
+    background-size: 100%;
+}
+
+/*Utilidades*/
+.contenedor{
+    width: 95%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
